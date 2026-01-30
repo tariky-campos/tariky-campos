@@ -1,9 +1,7 @@
 # 👋 Olá! Eu sou o Tariky Campos
 
-- 💻 Estudante de Ciência da Computação  
-- 🔭 Trabalhando em projetos de algoritmos, estrutura de dados e C  
-- 🌱 Aprendendo Engenharia de Software e Inteligência Artificial  
-- 📫 Contato: *(adicione seu email se quiser)*  
+- 💻 Estudante de Ciência da Computação   
+- 📫 Contato: *(tarikyjesus@gmail.com)*  
 
 ---
 
