@@ -16,13 +16,6 @@
   </a>
 </p>
 
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariky-campos&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tariky-campos&theme=monokai&show_icons=true&hide_border=true&layout=compact)
-
 ---
 
 ## 🐍 Snake Animation
