@@ -18,13 +18,6 @@
   </a>
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariky-campos&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tariky-campos&layout=compact&theme=github_dark&hide_border=true)
 
 
 ---
