@@ -11,18 +11,13 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate snake (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: tariky-campos
           outputs: |
-            dist/snake.svg
-        env:
-          SNAKE_COLOR_DOTS: "#39d353,#26a641,#006d32"
-          SNAKE_COLOR_SNAKE: "#9be9a8"
-          SNAKE_COLOR_BG: "#0d1117"
+            dist/snake.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
