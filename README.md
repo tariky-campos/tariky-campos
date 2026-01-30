@@ -30,7 +30,7 @@
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/tariky-campos/tariky-campos/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tariky-campos/tariky-campos/output/snake-dark.svg
 
 ---
 
