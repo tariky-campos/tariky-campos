@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Tariky Campos
 
 - 💻 Estudante de Ciência da Computação   
-- 📫 Contato: *(tarikyjesus@gmail.com)*  
 
 ---
 
@@ -15,6 +14,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
+---
+### 🌍 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielvitorsantos/)
 
 ---
 
