@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: tariky-campos
           outputs: |
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
