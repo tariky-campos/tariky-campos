@@ -26,9 +26,3 @@
 
 ![Snake animation](https://raw.githubusercontent.com/tariky-campos/tariky-campos/output/snake.svg)
 
-
----
-
-## 📎 Repositórios em destaque
-
-- [ArvorePatriciaString](https://github.com/tariky-campos/ArvorePatriciaString)
