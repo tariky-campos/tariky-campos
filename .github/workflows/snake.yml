@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: tariky-campos
