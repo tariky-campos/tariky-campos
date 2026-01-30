@@ -22,9 +22,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Tariky Campos GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariky-campos&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tariky-campos&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tariky-campos&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tariky-campos&layout=compact&theme=github_dark&hide_border=true)
+
 
 ---
 
