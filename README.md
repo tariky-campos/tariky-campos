@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Tariky Campos
+# 👋 Hi! I am Tariky Campos
 
 - 💻 Estudante de Ciência da Computação   
 
