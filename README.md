@@ -20,9 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tariky-rodrigues/)
 
----
 
-## 🐍 Snake Animation
 
 ![Snake animation](https://raw.githubusercontent.com/tariky-campos/tariky-campos/output/snake.svg)
 
